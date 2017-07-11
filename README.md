@@ -6,6 +6,8 @@ Zenko is  [Scality](http://www.scality.com/)’s Open Source Multi-Cloud Data Co
 
 Learn more at  [Zenko.io](http://www.zenko.io/)
 
+## [May I offer you some lovely documentation?](http://zenko.readthedocs.io)
+
 ## Contributing
 
 In order to contribute, please follow the
